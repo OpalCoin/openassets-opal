@@ -18,7 +18,6 @@ setuptools.setup(
     url = 'https://github.com/OpenAssets/openassets',
     license = 'MIT License',
     install_requires = [
-        'git+https://github.com/opalcoin/python-opalcoinlib.git#egg=python-opalcoinlib'
     ],
     test_suite = 'tests',
     classifiers = [
